@@ -1,5 +1,5 @@
-# Data-Structures-and-Algorithms
-## Data structures
+  Data-Structures-and-Algorithms
+ ! Data structures
 1. Array
 2. Graphs
 3. Hash tables (HashMap)
@@ -7,7 +7,7 @@
 5  Queues
 6. Stacks
 7. BST
-## Algorithms
+!# Algorithms
 1. Recursion
     1. Factorial
     2. Fibonacci - Includes a simple recursive with time complexity of O(n)
@@ -22,3 +22,4 @@
 1. Dynamic Fibonacci
 ## Interview Questions
 1. Common items
+ 
